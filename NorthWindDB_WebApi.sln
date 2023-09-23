@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWindDB_WebApi", "NorthWindDB_WebApi\NorthWindDB_WebApi.csproj", "{6AD0CC96-1ECA-4720-B665-86C7D4C52AE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker_Service", "Worker_Service\Worker_Service.csproj", "{9463157F-56C7-4E02-B13B-49C348B0C682}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{03E183DE-E379-4676-A7AD-AB9C60AD3F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{DEC76DCF-A0EA-46D3-AD1C-F4A9C7BC94B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppDeneme", "WindowsFormsAppDeneme\WindowsFormsAppDeneme.csproj", "{DD935201-5452-4334-A9DF-5BFEA6F281ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeWebApi", "DenemeWebApi\DenemeWebApi.csproj", "{ED622BDA-776F-494D-8FE8-5CC04CFD89AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD0CC96-1ECA-4720-B665-86C7D4C52AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD0CC96-1ECA-4720-B665-86C7D4C52AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD0CC96-1ECA-4720-B665-86C7D4C52AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD0CC96-1ECA-4720-B665-86C7D4C52AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9463157F-56C7-4E02-B13B-49C348B0C682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9463157F-56C7-4E02-B13B-49C348B0C682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9463157F-56C7-4E02-B13B-49C348B0C682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9463157F-56C7-4E02-B13B-49C348B0C682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E183DE-E379-4676-A7AD-AB9C60AD3F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E183DE-E379-4676-A7AD-AB9C60AD3F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E183DE-E379-4676-A7AD-AB9C60AD3F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E183DE-E379-4676-A7AD-AB9C60AD3F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC76DCF-A0EA-46D3-AD1C-F4A9C7BC94B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC76DCF-A0EA-46D3-AD1C-F4A9C7BC94B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC76DCF-A0EA-46D3-AD1C-F4A9C7BC94B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC76DCF-A0EA-46D3-AD1C-F4A9C7BC94B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD935201-5452-4334-A9DF-5BFEA6F281ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD935201-5452-4334-A9DF-5BFEA6F281ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD935201-5452-4334-A9DF-5BFEA6F281ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD935201-5452-4334-A9DF-5BFEA6F281ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED622BDA-776F-494D-8FE8-5CC04CFD89AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED622BDA-776F-494D-8FE8-5CC04CFD89AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED622BDA-776F-494D-8FE8-5CC04CFD89AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED622BDA-776F-494D-8FE8-5CC04CFD89AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A2A569-AAC3-406E-9620-199D3250CF32}
+	EndGlobalSection
+EndGlobal
